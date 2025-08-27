@@ -1,0 +1,14 @@
+ipykernel
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
+umap-learn
+scipy
+statsmodels
+xgboost
+optuna
+imbalanced-learn
+shap
+mlxtend
